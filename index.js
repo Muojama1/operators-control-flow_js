@@ -1,4 +1,5 @@
-tudentSubjects='artsSubjects';
+                    QST NO 3
+let studentSubjects='artsSubjects';
 if (studentSubjects='scienceSubjects') {
 	    console.log('Physics, Chemistry, Biology, Technical Drawing');
 } else if (studentSubjects='socialScienceSubjects') {
